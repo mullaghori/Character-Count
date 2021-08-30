@@ -1,6 +1,6 @@
 >From the book: Automate the Boring Stuff with Python. Writer: Al Sweigart
 
-# Character-Count
+# Character Count
 
 It's a practice project for python beginners.
 
